@@ -1,3 +1,0 @@
-streamlit==1.26.0  # Ensure compatibility with Streamlit features
-opencv-python==4.8.0.74  # For OpenCV functions like image processing
-numpy>=1.25.0 # For handling arrays and numeric computations
